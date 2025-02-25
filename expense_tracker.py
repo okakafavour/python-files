@@ -11,7 +11,7 @@ def menu():
 		4. Exit 
 		""")
 
-def add_on_expenses():
+def add_expenses():
     while True:
         try:
             date_string = input("Enter date in this format yyyy-mm-dd: ")
